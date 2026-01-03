@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "GAS GAS GAS",
+  "base_artist": "MANUEL",
+  "createdAt": "2026-01-03T15:59:16.526039Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GAS GAS GAS (EXTENDED MIX)",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/01_GAS_GAS_GAS_(EXTENDED_MIX)_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GAS GAS GAS",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/02_GAS_GAS_GAS_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gas Gas Gas (Shantel vs. Bregovic)",
+      "artist": "Goran Bregovic",
+      "has_synced": true,
+      "path": "select/03_Gas_Gas_Gas_(Shantel_vs._Bregovic)_Goran_Bregovic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gas Gas Gas",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/04_Gas_Gas_Gas_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gas Gas Gas (Initial D)",
+      "artist": "Tsuko G.",
+      "has_synced": true,
+      "path": "select/05_Gas_Gas_Gas_(Initial_D)_Tsuko_G..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "GAS GAS GAS",
+      "artist": "Initial D",
+      "has_synced": true,
+      "path": "select/06_GAS_GAS_GAS_Initial_D.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "GAS GAS GAS (DJ GUN REMIX)",
+      "artist": "Manuel",
+      "has_synced": false,
+      "path": "select/07_GAS_GAS_GAS_(DJ_GUN_REMIX)_Manuel.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gas Gas Gas (Shantel vs. Bregović)",
+      "artist": "Goran Bregović",
+      "has_synced": false,
+      "path": "select/08_Gas_Gas_Gas_(Shantel_vs._Bregović)_Goran_Bregović.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gas Gas Gas",
+      "artist": "Goran Bregović",
+      "has_synced": true,
+      "path": "select/09_Gas_Gas_Gas_Goran_Bregović.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gas Gas Gas",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/10_Gas_Gas_Gas_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gas Gas Gas",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/11_Gas_Gas_Gas_Manuel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gas Gas Gas",
+      "artist": "Manuel",
+      "has_synced": false,
+      "path": "select/pl_01_Gas_Gas_Gas_Manuel.txt"
+    }
+  ]
+}
